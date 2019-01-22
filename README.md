@@ -1,5 +1,5 @@
 # Customization Code Challenge
-Often we have to manipulate information of various shapes within our applications. Both of the exercies contain a constant defined as `data` in global scope.
+Often we have to manipulate information of various shapes within our applications. These exercies define a constant `data` in global scope which is to be repurposed in a specified way.
 
 The first of these exercies is straight forward, the second is a bit harder.
 
