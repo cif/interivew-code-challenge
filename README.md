@@ -1,12 +1,14 @@
-# The Best Interview Questions Ever
-Very often we have to manipulate information of various shapes within our applications. Both of the exercies contain a constant defined as `data` in global scope.
+# Customization Code Challenge
+Often we have to manipulate information of various shapes within our applications. Both of the exercies contain a constant defined as `data` in global scope.
+
+The first of these exercies is straight forward, the second is a bit harder.
 
 * For each problem, write code that returns the desired new information.
 * You must **include tests** for any functions you write.
 * Watch your tests and code with `npm run watch`
 * You may install and use any external libraries you wish.
 
-### 1. Inverted Array Mode Function
+### 1. Inverted Array Mode
 
 Complete the function defined in `exercise-one/index.js`. The corresponding tests are in `exercise-one/index.test.js`
 
@@ -47,8 +49,6 @@ Calling your function with `generateShortIds('apples')` would return:
 
 ## Bonus Points!
 
-Write `generateShortIds` so that when no `id` argument is passed, it will add the shortId to every nested object with an id.
+Refactor `generateShortIds` so that when no `id` argument is passed, it will add the shortId to every nested object with an id.
 
-
-#### Have fun!
-There are no wrong answers :)
+Also, there are no wrong answers!
