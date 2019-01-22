@@ -3,6 +3,8 @@ Often we have to manipulate information of various shapes within our application
 
 The first of these exercies is straight forward, the second is a bit harder.
 
+* Create a fork of this repo to work on.
+* Commit often as to demonstrate your solutions' progress.
 * For each problem, write code that returns the desired new information.
 * You must **include tests** for any functions you write.
 * Watch your tests and code with `npm run watch`
@@ -51,4 +53,4 @@ Calling your function with `generateShortIds('apples')` would return:
 
 Refactor `generateShortIds` so that when no `id` argument is passed, it will add the shortId to every nested object with an id.
 
-Also, there are no wrong answers!
+Also, there are no wrong answers! Except for the ones that don't work ;)
