@@ -1,0 +1,24 @@
+{
+  "name": "interivew-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch",
+    "one": "node exercise-one/index.js",
+    "two": "node exercise-two/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cif/interivew-code-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cif/interivew-code-challenge/issues"
+  },
+  "homepage": "https://github.com/cif/interivew-code-challenge#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
